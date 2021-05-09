@@ -18,8 +18,6 @@ The company will need to fill 90,398 roles as the "silver tsunamis" begins to ma
 * When it comes to Senior Engineers, although there are 317 retiring Senior Engineers eligible for mentoring, the ratio is 1:93 meaning that for every 92 positions opening up there wil be exactly one retiring employee available to mentor the next generation. The ratio is quite high and for rhis reason I think the company needs to expand their criteria a bit more. 
 * The title with the most retirees eligible for mentoring is Staff with 1 mentor for eveyr 30 employees. this seems much more reasonable than the ration for Senior Engineer mentoring groups, but still quite high.
 
-![rmentor_eligibility.png]
-(https://github.com/italiacardenas/Pewlett-Hackard-Analysis/blob/f030d175d16732cd3b9e5ebb81326102059b4bc8/mentor_eligibility.png)   
+![mentor_eligibility.png](https://github.com/italiacardenas/Pewlett-Hackard-Analysis/blob/f030d175d16732cd3b9e5ebb81326102059b4bc8/mentor_eligibility.png)   
  
- ![retiring_titles.png]
- (https://github.com/italiacardenas/Pewlett-Hackard-Analysis/blob/f030d175d16732cd3b9e5ebb81326102059b4bc8/retiring_titles.png)
+ ![retiring_titles.png](https://github.com/italiacardenas/Pewlett-Hackard-Analysis/blob/f030d175d16732cd3b9e5ebb81326102059b4bc8/retiring_titles.png)
