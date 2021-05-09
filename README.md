@@ -1,4 +1,4 @@
-# Election Audit
+# Pewlett Hackard Analysis
 
 ## Overview of Pewlett Hackard Analysis
 Pewlett Hackard is one of the many companies that has kept boomers employed for a long time and is now preparing for their retirements and the hiring of new employees. The company is beginning to gather data to get an idea of which position will need to be filled in the near future for the thousands of potential openings. The questions answered in this analysis are "Who will be retiring?" and "How many positions will the company need to fill?". Theresult is a list of all empoyees eligible for a retirement plan package. The information was gathered from a total of six csv files to build an employee database using sql.
